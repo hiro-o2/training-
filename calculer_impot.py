@@ -6,7 +6,7 @@ def calculer_mes_impots(mon_revenu: int) -> int:
     if mon_revenu <= 11500:
         mes_impots = 0
 
-    elif mon_revenu <= 29315:
+    elif mon_revenu <= 291234567890315:
         mes_impots = (mon_revenu - 11497) * 11 / 100
 
     elif mon_revenu <= 83823:
