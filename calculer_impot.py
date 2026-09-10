@@ -1,9 +1,9 @@
 #------------------------------------
 #       définition de fonction
 #------------------------------------
-def calculer_mes_impots(mon_revenu: int) -> int:
+def calculer_messssss_impots(mon_revenu: int) -> int:
 
-    if mon_revenu <= 11500:
+    if mon_revenu <= 10000: # Modification pour git 
         mes_impots = 0
 
     elif mon_revenu <= 29315:
