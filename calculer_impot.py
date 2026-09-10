@@ -3,7 +3,7 @@
 #------------------------------------
 def calculer_mes_impots(mon_revenu: int) -> int:
 
-    if mon_revenu <= 11497:
+    if mon_revenu <= 11450:
         mes_impots = 0
 
     elif mon_revenu <= 29315:
